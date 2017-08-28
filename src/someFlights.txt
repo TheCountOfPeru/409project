@@ -1,0 +1,10 @@
+2893;Williams Court;Sulphur Springs;2018-12-14;04:00;170;8;8;1000.99
+6875;Fall Brook;Black Horse Tavern;2018-02-28;04:30;422;8;8;2000.99
+6164;Valley North;Foxcatcher At Fair Hill;2019-12-27;08:30;144;8;8;3000.99
+7432;Colonville;Rustic;2018-10-27;10:00;194;8;8;1000.99
+6506;Prairie Du Sac;Echo;2018-03-28;10:30;179;8;8;99.99
+4944;Oostburg;Blodgett;2017-12-02;16:00;574;8;8;102.34
+5840;Mulberry;Seminole;2017-11-17;18:00;428;8;8;235.45
+4262;Giants Neck;Split Hill;2017-06-26;19:30;8;8;9999.99
+9160;Chula;Lulaville;2018-05-05;20:30;300;8;8;5012.09
+3420;Kugluktuk;Kadota;2019-09-09;22:30;153;8;8;2017.17
