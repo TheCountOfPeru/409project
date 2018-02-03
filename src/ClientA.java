@@ -264,7 +264,6 @@ static class AdminGUI {
 		/**
 		 * Launch the application.
 		 */
-		
 		public AddFlightGUI() {
 			initialize();
 		}
